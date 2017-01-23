@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/usr/bin/python3
 
 #this script will rotate your display and touch panel
 #tested on Raspbian Jessie with Pixel on 10/23/2016 on a Raspberry Pi 3
