@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-#!/bin/sh
+#!/bin/bash
 echo "this may take a while"
 
-=======
-#!/bin/bash
->>>>>>> 5bc8c241c779923af7570090c5fd1d7763c7feff
 mv display-rotate.py /bin/display-rotate
 chmod +x /bin/display-rotate
 
