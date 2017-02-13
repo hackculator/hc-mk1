@@ -14,5 +14,5 @@ sed -i "s/$match/$match\n$insert/" $file
 
 cd ~/ 
 apt-get update
-apt-get install -y florence emacs octave xrdp tightvncserver arduino python-qt4
+apt-get install -y florence emacs octave xrdp tightvncserver arduino python-qt4 at-spi2-core
 
